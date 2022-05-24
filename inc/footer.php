@@ -70,7 +70,6 @@
 
 
 
-  </body>
 
 
 
@@ -98,4 +97,6 @@
           $('#example').DataTable();
       } );
   </script>
+</body>
+
 </html>
